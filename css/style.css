@@ -46,3 +46,40 @@ h2 {
   display: flex;
   justify-content: space-between;
 }
+
+.content-field {
+  margin-top: 44px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.content-name {
+  font-size: 40px;
+  text-align:center;
+  width: 230px;
+  height: 100px;
+  margin-top: 20px;
+  margin-left: 170px;
+  background-color:#66A1D2 ;
+  color: #FF0000;
+  border-radius: 40%;
+}
+
+
+.content {
+  background-color: #5CCDC9;
+  width: 735px;
+  margin-right: 38pxpx;
+  border-radius: 15px;
+
+}
+.content p{
+  margin-left: 24px;
+  font-size: 18px;
+}
+
+.content-name p {
+  margin: 0 auto;
+  margin-top: 25px;
+  margin-left: 10px;
+}
