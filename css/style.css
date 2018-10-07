@@ -3,3 +3,46 @@
   margin: 0 auto;
   font-family: "Baskerville Old Face";
 }
+
+h1 {
+  font-size: 60px;
+  color: #1D7373;
+  margin-top: 35px;
+  margin-left: 80px
+}
+
+h2 {
+  color: #90cab6;
+  font-size: 35px;
+  margin-left: 160px;
+}
+
+.photo {
+  margin-left: 100px;
+}
+
+.photo img {
+  width: 200px;
+  border-radius: 50%;
+  position: inherit;
+}
+
+.profile {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;;
+}
+
+.about {
+  margin-left: 70px;
+}
+
+.name {
+  margin-left: 40px;
+}
+
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
